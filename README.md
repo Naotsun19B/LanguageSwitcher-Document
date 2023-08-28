@@ -23,7 +23,8 @@ Target platform : Windows, Mac, Linux
 
 ## Installation
 
-IN PREPARATION
+Install from the [marketplace](https://www.unrealengine.com/marketplace/en-US/product/5e10055a95f34b609c7afe072a5379ab).  
+If the feature is not available after installing the plugin, it is possible that the plugin has not been enabled, so please check if the plugin is enabled from Edit > Plugins.
 
 ## Features And Usages
 
@@ -37,12 +38,12 @@ You can assign shortcut keys to all functions in the combo button menu.
 
 ![KeyboardShortcuts](https://github.com/Naotsun19B/LanguageSwitcher-Document/assets/51815450/fb5ba448-2d07-4e76-b19d-1748eef83fab)
 
-The shortcut keys introduced in "Functions And Usage" can be changed from the keyboard shortcuts in the editor preferences.  
+The shortcut keys introduced in [README.md](..%2FGraphPrinter-Document%2FREADME.md)"Functions And Usage" can be changed from the keyboard shortcuts in the editor preferences.  
 
 ![Settings](https://github.com/Naotsun19B/LanguageSwitcher-Document/assets/51815450/989f2088-9326-4861-a607-01622b1aa339)
 
 | **Item**                             | **Description**                                                                                                                                              |
-|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------[README.md](..%2FGraphPrinter-Document%2FREADME.md)-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Status Bar Button Method             | Kind of action when the button displayed at the top of the status bar is pressed.                                                                            |
 | Editor Languages                     | The list of editor language to switch to. Switching is done in order from the top, with the last language in the list switching to the first language.       |
 | Editor Locales                       | The list of editor locale to switch to. Switching is done in order from the top, with the last language in the list switching to the first language.         |
@@ -55,4 +56,5 @@ The shortcut keys introduced in "Functions And Usage" can be changed from the ke
 
 ## History
 
-IN PREPARATION
+- (2023/08/28) v1.0   
+  Publish plugin
