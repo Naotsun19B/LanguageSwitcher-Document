@@ -18,7 +18,7 @@
 
 ## 動作環境
 
-対象バージョン : UE5.0 ～ 5.2    
+対象バージョン : UE5.0 ～ 5.3    
 対象プラットフォーム : Windows, Mac, Linux
 
 ## インストール
@@ -28,7 +28,7 @@
 
 ## 機能と使い方
 
-![Usage](https://github.com/Naotsun19B/LanguageSwitcher-Document/assets/51815450/c94bd214-76c8-4ae2-804c-7ae5cb045141)
+![Usage](https://github.com/Naotsun19B/LanguageSwitcher-Document/assets/51815450/580528b1-5762-412b-bcd0-a7015cfaf9ad)
 
 ステータスバーにエディタ環境設定で設定した機能を呼び出すボタン（デフォルトのショートカットキーは`Ctrl + L`）と細かい操作ができるコンボボタンが追加されます。  
 コンボボタンからは エディタ環境設定 > 地域&言語 で設定できるプロパティを操作することができます。  
@@ -56,6 +56,10 @@
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## 履歴
+
+- (2023/09/09) v1.1   
+  タイムゾーンの表示の設定をステータスバーから変更できるようにしました  
+  UE5.3に対応しました  
 
 - (2023/08/28) v1.0   
   プラグインを公開

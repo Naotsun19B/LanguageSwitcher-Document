@@ -18,7 +18,7 @@ This plugin adds a function that allows you to quickly change language and regio
 
 ## Requirement
 
-Target version : UE5.0 ～ 5.2    
+Target version : UE5.0 ～ 5.3    
 Target platform : Windows, Mac, Linux  
 
 ## Installation
@@ -28,7 +28,7 @@ If the feature is not available after installing the plugin, it is possible that
 
 ## Features And Usages
 
-![Usage](https://github.com/Naotsun19B/LanguageSwitcher-Document/assets/51815450/c94bd214-76c8-4ae2-804c-7ae5cb045141)
+![Usage](https://github.com/Naotsun19B/LanguageSwitcher-Document/assets/51815450/580528b1-5762-412b-bcd0-a7015cfaf9ad)
 
 A button (default shortcut key is `Ctrl + L`) that calls the function set in the editor environment setting and a combo button that can perform detailed operations are added to the status bar.  
 From the combo button you can operate properties that can be set in Editor Preferences > Region & Language.    
@@ -55,6 +55,10 @@ The shortcut keys introduced in [README.md](..%2FGraphPrinter-Document%2FREADME.
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## History
+
+- (2023/09/09) v1.1   
+  Added the ability to change the time zone display settings from the status bar    
+  Added support for UE5.3  
 
 - (2023/08/28) v1.0   
   Publish plugin
