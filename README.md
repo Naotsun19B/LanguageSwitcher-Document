@@ -18,7 +18,7 @@ This plugin adds a function that allows you to quickly change language and regio
 
 ## Requirement
 
-Target version : UE5.0 ～ 5.4    
+Target version : UE5.0 ～ 5.5    
 Target platform : Windows, Mac, Linux  
 
 ## Installation
@@ -55,6 +55,9 @@ The shortcut keys introduced in "Functions And Usage" can be changed from the ke
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## History
+
+- (2025/04/20) v1.3   
+  Added support for UE5.5  
 
 - (2024/04/24) v1.2   
   Added support for UE5.4  
