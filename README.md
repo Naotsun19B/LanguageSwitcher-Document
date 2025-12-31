@@ -1,3 +1,7 @@
+![UE Version](https://img.shields.io/badge/Unreal%20Engine-5.0--5.7-0e1128?logo=unrealengine&logoColor=white)
+[![License: Fab Standard License (Fab EULA)](https://img.shields.io/badge/license-Fab%20Standard%20License%20%28Fab%20EULA%29-blue)](https://www.fab.com/eula)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Naotsun_UE?style=social)](https://twitter.com/Naotsun_UE)
+
 # LanguageSwitcher
 
 ![Plugin](https://github.com/Naotsun19B/LanguageSwitcher-Document/assets/51815450/3f38268d-30ed-4f2f-a2f4-e269f056a2b8)
@@ -8,6 +12,7 @@
 * [Installation](#Installation)
 * [Features And Usages](#features-and-usages)
 * [Settings](#Settings)
+* [License](#license)
 * [Author](#Author)
 * [History](#History)
 <!--te-->
@@ -50,6 +55,13 @@ The shortcut keys introduced in "Functions And Usage" can be changed from the ke
 | Preview Game Languages               | The list of preview game language to switch to. Switching is done in order from the top, with the last language in the list switching to the first language. |
 | Notify Current Culture When Switched | Whether to notify the changed language when the editor language, editor locale, or game review language is changed.                                          |
 | Notification Expire Duration         | The time for which the notification will be displayed.                                                                                                       |
+
+## License
+
+This repository contains documentation only. No plugin source code or binaries are provided here.  
+The plugin itself is distributed on Fab and is licensed to end users under the [Fab Standard License (Fab EULA)](https://www.fab.com/eula).  
+Unless explicitly stated otherwise, all documentation content in this repository is © 2023-2026 Naotsun. All rights reserved.
+
 ## Author
 
 [Naotsun](https://twitter.com/Naotsun_UE)

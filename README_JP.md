@@ -1,3 +1,7 @@
+![UE Version](https://img.shields.io/badge/Unreal%20Engine-5.0--5.7-0e1128?logo=unrealengine&logoColor=white)
+[![License: Fab Standard License (Fab EULA)](https://img.shields.io/badge/license-Fab%20Standard%20License%20%28Fab%20EULA%29-blue)](https://www.fab.com/eula)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Naotsun_UE?style=social)](https://twitter.com/Naotsun_UE)
+
 # LanguageSwitcher
 
 ![Plugin](https://github.com/Naotsun19B/LanguageSwitcher-Document/assets/51815450/3f38268d-30ed-4f2f-a2f4-e269f056a2b8)
@@ -8,6 +12,7 @@
 * [インストール](#インストール)
 * [機能と使い方](#機能と使い方)
 * [オプション](#オプション)
+* [ライセンス](#ライセンス)
 * [作者](#作者)
 * [履歴](#履歴)
 <!--te-->
@@ -50,6 +55,12 @@
 | Preview Game Languages               | プレビューゲームの言語のリスト。切り替えは上から順番に行われ、リストの最後の場合は先頭の言語に切り替えられます。            |
 | Notify Current Culture When Switched | 言語やロケールを切り替えた際に切り替えた後の言語やロケールをエディタ通知で表示するかどうか。                      |
 | Notification Expire Duration         | 言語やロケールを切り替えた際に表示されるエディタ通知の表示時間。                                    |
+
+## ライセンス
+
+本リポジトリはドキュメントのみを含みます。プラグイン本体のソースコード／バイナリは含みません。  
+プラグイン本体は Fab 上で配布され、利用者には [Fab Standard License (Fab EULA)](https://www.fab.com/ja/eula) に基づいて提供されます。  
+特に明記がない限り、本リポジトリ内のドキュメントの著作権は © 2023-2026 Naotsun に帰属し、無断転載は禁止です。
 
 ## 作者
 
