@@ -1,4 +1,4 @@
-![UE Version](https://img.shields.io/badge/Unreal%20Engine-5.0--5.7-0e1128?logo=unrealengine&logoColor=white)
+![UE Version](https://img.shields.io/badge/Unreal%20Engine-5.0--5.8-0e1128?logo=unrealengine&logoColor=white)
 [![License: Fab Standard License (Fab EULA)](https://img.shields.io/badge/License-Fab%20Standard%20License%20%28Fab%20EULA%29-blue)](https://www.fab.com/eula)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Naotsun_UE?style=social)](https://twitter.com/Naotsun_UE)
 
@@ -23,7 +23,7 @@ This plugin adds a function that allows you to quickly change language and regio
 
 ## Requirement
 
-Target version : UE5.0 ～ 5.7    
+Target version : UE5.0 ～ 5.8    
 Target platform : Windows, Mac, Linux  
 
 ## Installation
@@ -67,6 +67,11 @@ Unless explicitly stated otherwise, all documentation content in this repository
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## History
+
+- (2026/06/22) v1.6  
+  Added support for UE5.8  
+  Fixed an issue where the "Set Preview Game Language" submenu was bound to the wrong commands and did not switch the preview game language as expected  
+  Improved stability of the reorder / remove operations on the language list
 
 - (2025/11/20) v1.5
   Added support for UE5.7  
